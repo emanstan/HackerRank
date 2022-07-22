@@ -2,6 +2,6 @@
 
 These are just a few example solutions to HackerRank challenges that I wrote.
 
-I've only provided the solution, not the challenge problem. These examples should span all different challenge levels.
+These examples span all different challenge levels and I've only provided the solution, not the accompanying challenge problem.
 
 I I'm keeping them here as part of a portfolio.
